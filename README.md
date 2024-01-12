@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=shinydisk&theme=ambient_gradient&show_icons=true&count_private=true" alt="shinydisk" />
-<br><br>
+<br>
 
 ⭐️ If you find my projects interesting or useful, do not hesitate to stare (star) and share them!<br>
 👨‍💻 Thank you for visiting my GitHub profile and viewing my projects. I appreciate your feedback and contributions!
