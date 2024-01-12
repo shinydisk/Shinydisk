@@ -33,15 +33,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=shinydisk&theme=ambient_gradient&show_icons=true&count_private=true" alt="shinydisk" />
-<br>
----
-⭐️ Si vous trouvez mes projets intéressants ou utiles, n'hésitez pas à les étoiler (star) et à les partager !
+<br><br>
 
-📬 Vous pouvez me contacter par email à [votre.email@example.com].
-
-🌐 Découvrez plus sur moi sur [votre site personnel ou blog].
-
-👨‍💻 Merci de visiter mon profil GitHub et de consulter mes projets. J'apprécie vos retours et contributions !
+⭐️ If you find my projects interesting or useful, do not hesitate to stare (star) and share them!<br>
+👨‍💻 Thank you for visiting my GitHub profile and viewing my projects. I appreciate your feedback and contributions!
 
 [![GitHub Followers](https://img.shields.io/github/followers/shinydisk?label=Follow&style=social)](https://github.com/your_username)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Shinydisk?style=social)](https://twitter.com/your_twitter_username)
