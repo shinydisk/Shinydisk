@@ -38,8 +38,8 @@
 ⭐️ If you find my projects interesting or useful, do not hesitate to stare (star) and share them!<br>
 👨‍💻 Thank you for visiting my GitHub profile and viewing my projects. I appreciate your feedback and contributions!
 
-[![GitHub Followers](https://img.shields.io/github/followers/shinydisk?label=Follow&style=social)](https://github.com/your_username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_Shinydisk?style=social)](https://twitter.com/your_twitter_username)
+[![GitHub Followers](https://img.shields.io/github/followers/shinydisk?label=Follow&style=social)](https://github.com/shinydisk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_Shinydisk?style=social)](https://twitter.com/_Shinydisk)
 
 
 
