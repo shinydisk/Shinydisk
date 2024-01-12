@@ -2,7 +2,6 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/shinydisk?label=Follow&style=social)](https://github.com/shinydisk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Shinydisk?style=social)](https://twitter.com/_Shinydisk)
-![Private Discord](https://img.shields.io/discourse/groovernor)
 
 
 - 🍌 Don't forget to get some Potassium 🍌
