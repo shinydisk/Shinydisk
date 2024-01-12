@@ -14,7 +14,7 @@
 
 <h2>🔗 &nbsp;Connect with me</h2>
 <p align="left">
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="55" width="55" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_ShinyDisk" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/8138585/255580473-e9e13421-89cf-445b-b2e2-e50e0864789f.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUwOTQzNzQsIm5iZiI6MTcwNTA5NDA3NCwicGF0aCI6Ii84MTM4NTg1LzI1NTU4MDQ3My1lOWUxMzQyMS04OWNmLTQ0NWItYjJlMi1lNTBlMDg2NDc4OWYuc3ZnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDExMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMTJUMjExNDM0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODA2ZDY5ZDE5Y2VlNzAzYjRlYmNhMzNmZDI4YzJlZDNjYjYzZWQ2OGY0ZWUzYjJmYmUwZTA4NDQ5MDI5M2VmYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.D-R6nwk0MEnZakJeicn-18TU2uclei8kvTvd7oVZ66s" alt="gautamkrishnar" height="55" width="55" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/antoine-birker-06208b106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoinebirker" height="55" width="55" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/abkr.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="55" width="55" /></a>
 </p>
@@ -33,6 +33,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=shinydisk&theme=ambient_gradient&show_icons=true&count_private=true" alt="shinydisk" />
+<br>
+---
+⭐️ Si vous trouvez mes projets intéressants ou utiles, n'hésitez pas à les étoiler (star) et à les partager !
+
+📬 Vous pouvez me contacter par email à [votre.email@example.com].
+
+🌐 Découvrez plus sur moi sur [votre site personnel ou blog].
+
+👨‍💻 Merci de visiter mon profil GitHub et de consulter mes projets. J'apprécie vos retours et contributions !
+
+[![GitHub Followers](https://img.shields.io/github/followers/shinydisk?label=Follow&style=social)](https://github.com/your_username)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_Shinydisk?style=social)](https://twitter.com/your_twitter_username)
 
 
 
@@ -49,4 +61,3 @@
 shinydisk/shinydisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# shinydisk
